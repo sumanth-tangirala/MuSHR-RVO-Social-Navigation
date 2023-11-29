@@ -1,2 +1,2 @@
-# MuSHR-RVO-Social-Navigation
-# MuSHR-RVO-Social-Navigation
+# Social Navigation of MuSHR using RVO Avoidance
+
